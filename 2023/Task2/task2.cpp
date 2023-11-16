@@ -145,6 +145,3 @@ bool containFlags(vector<int> vect, int tid)
     }
     return check;
 }
-
-//Quelli che fanno time 0 non c'è l'id
-//Devo confrontare il tempo tra task diverse
